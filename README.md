@@ -6,3 +6,4 @@ fix: SCRUM-1 second test commit1
 fix: SCRUM-1 second test commit2
 fix: SCRUM-2 second test commit2
 fix: SCRUM-2 second test commit3
+fix: SCRUM-2 second test test
