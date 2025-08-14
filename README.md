@@ -12,3 +12,4 @@ fix SCRUM-1 login fix phygitalmax
 fix SCRUM-1 login fix phygitalmax111
 SCRUM-15 fixed login bug
 SCRUM-11 fixed login bug
+SCRUM-15 fixed login bughjshd
